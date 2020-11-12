@@ -6,5 +6,11 @@ some description!
 ## Subheader
 
 watch tutorial on youtube
-gahahaha
-wawaaw
+
+git status
+
+git add . 
+
+git commit
+
+git push
